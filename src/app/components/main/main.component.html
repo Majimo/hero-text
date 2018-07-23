@@ -1,0 +1,10 @@
+<div class="container">
+  <div>
+    <div >
+      <p>{{ story.txt }}</p>
+      <div *ngFor="let choice of story.choices" >
+        <button type="button" (click)="goTo(choice[1])" class="btn btn-primary">{{ choice[0] }}</button>
+      </div>
+    </div>
+  </div>
+</div>

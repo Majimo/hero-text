@@ -1,0 +1,19 @@
+[
+    {
+        "id": 0,
+        "img": "http://www.gallimardmontreal.com/system/vitrines/images/109/original/Heros.jpg",
+        "txt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce nunc diam, fermentum nec tempus vel, iaculis eget lorem. Nunc ut lorem id massa fermentum cursus. Nam mattis fringilla enim. Ut ac libero ipsum. Mauris nec urna nec mi tempor porttitor eget vitae ligula. Nunc id eros mollis, bibendum lectus in, faucibus eros. Suspendisse facilisis eros eu mauris feugiat, eget eleifend nunc euismod. Suspendisse vitae ligula quis erat fermentum ornare at vitae metus. Etiam auctor ipsum sit amet sodales placerat. Ut elementum semper leo et pulvinar. Nullam metus velit, feugiat congue magna vitae, dictum facilisis sem. Quisque scelerisque urna eget eros placerat pretium. Nulla mattis blandit neque vitae auctor. Sed consectetur enim nec malesuada efficitur.",
+        "choices": [
+            ["Commencer", 1]
+        ]
+    },
+    {
+        "id": 1,
+        "img": "http://www.gallimardmontreal.com/system/vitrines/images/109/original/Heros.jpg",
+        "txt": "Integer vestibulum turpis at nibh laoreet, sed imperdiet odio tempor. Nam non ligula purus. Suspendisse mattis nulla id quam tincidunt scelerisque. Duis sit amet nisi augue. Sed enim ligula, pellentesque quis orci ac, scelerisque vulputate justo. Curabitur nibh est, pellentesque at tortor a, elementum tempor ex. Nam odio enim, pharetra a eros sit amet, faucibus iaculis metus. Donec sodales nunc a scelerisque imperdiet. Curabitur sodales quam sem, sit amet dapibus libero tristique ac. Nullam consectetur eleifend aliquet. Sed quis laoreet urna, id lacinia lectus. Aenean orci felis, posuere sed pretium ac, tempus pretium purus.",
+        "choices": [
+            ["Revenir au début", 0],
+            ["Voir la suite", 2]
+        ]
+    }
+]
